@@ -1,1 +1,0 @@
-alter table DFC.DR_ONLINE_USER_DTLS modify(MOBILE_NO   VARCHAR2 (12)  );

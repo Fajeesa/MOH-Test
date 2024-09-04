@@ -1,3 +1,0 @@
-update DFC.DR_DOC_MST set  DOC_NAME= 'PAM(public authority of manpower) Certificate',DOC_NAME_AR = 'PAM(public authority of manpower)  Certificate'where   doc_cd ='PAM';
-
-alter table DFC.DR_ONLINE_USER_DTLS modify(MOBILE_NO   VARCHAR2 (15)  );

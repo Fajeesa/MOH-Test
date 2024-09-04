@@ -1,0 +1,15 @@
+Insert into DFC.DR_EMP_DTLS
+   (EMP_ID, EMP_NAME, FULL_NAME_EN, FULL_NAME_AR, EMP_CATEGORY, STATUS_FLAG, EMAIL, MOBILE_NO, CIVIL_ID, EMP_CODE, CREATED_BY, CREATED_DATE)
+ Values
+   ('dalbastaki', 'Donia Albastaki', 'Donia Albastaki', 'Donia Albastaki', 
+    'U', 
+    'N', 'dalbastaki@moh.gov.kw', '99229012', '281122101727', '$2a$10$TccZOkpBzJSzfH3rzweDyOkJ0cPR3gLelteSNy5Z7CCK9LuZuyQze', 'neelamd5', sysdate);
+    
+
+    
+Insert into DFC.DR_EMP_DTLS
+   (EMP_ID, EMP_NAME, FULL_NAME_EN, FULL_NAME_AR, EMP_CATEGORY, STATUS_FLAG, EMAIL, MOBILE_NO, CIVIL_ID, EMP_CODE, CREATED_BY, CREATED_DATE)
+ Values
+   ('mboshaibah', 'May Mazyad', 'May Mazyad', 'May Mazyad', 
+    'U', 
+    'N', 'mboshaibah@moh.gov.kw', '97367663', '282050200498', '$2a$10$TccZOkpBzJSzfH3rzweDyOkJ0cPR3gLelteSNy5Z7CCK9LuZuyQze', 'neelamd5', sysdate);
